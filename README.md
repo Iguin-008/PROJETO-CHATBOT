@@ -3,6 +3,8 @@
 ## Sobre o Projeto  
 Lixo no Lixo é um chatbot desenvolvido em Python que auxilia os usuários no descarte correto de lixo eletrônico e eletrodomésticos. Ele fornece informações úteis sobre pontos de coleta, programas de logística reversa e opções de reutilização, promovendo práticas sustentáveis para preservar o meio ambiente.  
 
+Os nomes dos membros do grupo estão comentados no código "main.py".
+
 ## Funcionalidades  
 - Orientação sobre descarte consciente de diferentes tipos de resíduos.  
 - Listagem de categorias, como dispositivos pessoais, eletrodomésticos e acessórios.  
@@ -18,15 +20,17 @@ Lixo no Lixo é um chatbot desenvolvido em Python que auxilia os usuários no de
 
 ### Pré-requisitos  
 - Python 3.8 ou superior instalado.  
-- Instale as Bibliotecas (Cole na no terminal "pip install telebot python-dotenv".)    
+- Instale as Bibliotecas (Cole no terminal "pip install telebot python-dotenv".)    
 
 ### Instalação  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/lixo-no-lixo.git
-   cd lixo-no-lixo
+   git clone https://github.com/Iguin-008/PROJETO-CHATBOT.git
+   cd PROJETO-CHATBOT
 
-2. Use o comando "python main.py" no terminal para inicializar
+
+2. Use o comando "python main.py" no terminal para inicializar.
+3. Após isso, abra o link do chat que está no código.
 
 ## Prints do ChatBot
 ![Screenshot_20241120-185853](https://github.com/user-attachments/assets/2f5ea4f5-431d-4f3b-9207-d62dce664acd)
