@@ -1,13 +1,4 @@
 
-#NOME DA EQUIPE: Squad Eletronics
-#Igor Almeida
-#Guilherme Gomes 
-#Luan Fernandes
-#Gabriel Borges
-#José Carlos Leite Silva
-#Lucas dos Santos Reis
-#Rafael Dias Farias
-
 import mensagem
 import telebot
 import dotenv
@@ -16,9 +7,6 @@ from os import getenv
 dotenv.load_dotenv()
 
 TOKEN_TELEGRAM = getenv("TOKEN_TELEGRAM")
-
-
-#Link do ChatBot: #http://t.me/Lixo_no_Lixo1911_bot
 
 
 bot = telebot.TeleBot(TOKEN_TELEGRAM)
