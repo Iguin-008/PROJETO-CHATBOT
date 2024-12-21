@@ -29,8 +29,10 @@ Os nomes dos membros do grupo estão comentados no código "main.py".
    cd PROJETO-CHATBOT
 
 
-2. Use o comando "python main.py" no terminal para inicializar.
-3. Após isso, abra o link do chat que está no código.
+2. Vá ao telegram, pesquise por BotFather crie seu bot e pegue o token.
+3. Cole o token no .env 
+4. Use o comando "python main.py" no terminal para inicializar.
+5. Após isso, entre no bot que você gerou no BotFather
 
 ## Prints do ChatBot
 ![Screenshot_20241120-185853](https://github.com/user-attachments/assets/2f5ea4f5-431d-4f3b-9207-d62dce664acd)
